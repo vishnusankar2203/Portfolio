@@ -131,6 +131,4 @@ If you want to enable real email sending in the future, you can integrate with a
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
